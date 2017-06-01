@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>{{_partial.Outlet}}</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="css/style.css" rel="stylesheet">
+  </head>
+  <body>
+
+  <div>
+    <h1>{{_partial.Outlet}}</h1>
+    <p>project links and dev notes...</p>
+    <hr/>
+    <h3>Helpful Links</h3>
+    <ul>
+      <li><a href="https://github.com/bbatsov/ruby-style-guide" target="_new" >https://github.com/bbatsov/ruby-style-guide</a></li>
+    </ul>
+  </div>
+  </body>
+</html>
